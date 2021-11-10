@@ -1,2 +1,2 @@
 # PraticandoETL
-O mão na massa do curso de ETL da DIO
+O mão na massa do curso de ETL da DIO!
